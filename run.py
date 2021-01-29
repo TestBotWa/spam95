@@ -3,8 +3,8 @@
    Author : Endin Aenudin
    Social ;
             Github    : /Din-zUgex95
-            Youtube   : Din-zUgex95
-            Instagram : din.z95
+            Youtube   : Rio FF
+            Instagram : Kapten_Skip
 '''
 #======================================#
 
